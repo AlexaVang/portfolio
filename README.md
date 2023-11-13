@@ -2,11 +2,6 @@
 
 <!-- TABLE OF CONTENTS -->
 
-## Table of Contents
-
-- [Overview](#overview)
-  - [Built With](built-with)
-
 ## Contact
 
 - Website [@Alex-Vang](https://alexavang.vercel.app/)
